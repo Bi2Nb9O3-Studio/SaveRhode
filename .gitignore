@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# SaveRhode 的 3D 模型源文件是 OBJ 网格，不是 Visual Studio 的编译中间产物
+!GameData/SaveRhode/Models/**/*.obj

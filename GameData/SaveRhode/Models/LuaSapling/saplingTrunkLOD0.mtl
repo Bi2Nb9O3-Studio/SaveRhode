@@ -1,0 +1,8 @@
+newmtl saplingBark
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd SaveRhode/Textures/LuaSapling/saplingBark.dds
+map_Bump SaveRhode/Textures/LuaSapling/saplingBarknrm.dds
